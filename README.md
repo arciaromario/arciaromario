@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Romario Arcia 👋
 
-<!--
-**arciaromario/arciaromario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer with a keen interest in web development, movil development and open-source contribution. I enjoy solving complex problems and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about web development, JavaScript, TypeScript, NextJs, ReactJs, Vue.
+- 📫 How to reach me: [lromarioyunior@gmail.com](lromarioyunior@gmail.com).
+## My Skills
+
+### Languages
+- JavaScript
+- TypeScript
+- HTML/CSS
+- Java
+- Dart
+
+### Frameworks & Libraries
+- React
+- Vue
+- Node.js
+- Flutter
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- Linux
+
+## GitHub Stats
+
+![Arciaromario's GitHub stats](https://github-readme-stats.vercel.app/api?username=arciaromario&show_icons=true&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/arciaromario)
+- [Twitter](https://twitter.com/arciaromario)
+- [Personal Blog](https://arciaromario.com/blog)
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch.
